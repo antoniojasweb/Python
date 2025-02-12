@@ -1,0 +1,6 @@
+Pantalones: 40
+Camisas: 30
+Zapatos: 50
+Pantalones: 40
+Camisas: 30
+Zapatos: 50
